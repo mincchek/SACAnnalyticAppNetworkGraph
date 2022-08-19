@@ -15,14 +15,14 @@
       {
          "kind": "main",
          "tag": "com-fd-djaja-sap-sac-networkgraphforcebased",
-         "url": "https://github.com/mincchek/SACAnalyticAppNetworkGraph/blob/main/SACAnalyticApp/forcebased.js",
+         "url": "https://github.com/mincchek/SACAnnalyticAppNetworkGraph/blob/main/forcebased.js",
          "integrity": "",
          "ignoreIntegrity": true
       },
       {
          "kind": "styling",
          "tag": "com-fd-djaja-sap-sac-networkgraphforcebased-aps",
-         "url": "https://github.com/mincchek/SACAnalyticAppNetworkGraph/blob/main/SACAnalyticApp/aps_forcebased.js",
+         "url": "https://github.com/mincchek/SACAnnalyticAppNetworkGraph/blob/main/aps_forcebased.js",
          "integrity": "",
          "ignoreIntegrity": true
       }
