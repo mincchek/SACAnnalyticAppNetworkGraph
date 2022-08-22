@@ -293,7 +293,7 @@
                             that._firstConnection = 1;
 
                             $.ajax({
-                                url: 'http://127.0.0.1:4033/hierarchy', //R Plumber REST API URL
+                                url: 'http://127.0.0.1:7811/hierarchy', //R Plumber REST API URL
                                 type: 'GET',
                                 async: true,
                                 timeout: 0,
